@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175764232481",
+    "project_id": "what-up-110cf",
+    "storage_bucket": "what-up-110cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175764232481:android:494c4353e5d37fea7c4660",
+        "android_client_info": {
+          "package_name": "com.appschef.whatup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175764232481-2b4odn8k218gceb9bhb9aiep2hfrmks2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appschef.whatup",
+            "certificate_hash": "b2da542e0b60592a3e9b1126843754fa9b6aa34f"
+          }
+        },
+        {
+          "client_id": "175764232481-ao7u301g2rg9v04e7m6tfiqgj251ffn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAL65-OWh13KEWei2fn4SSc6sMnANzjBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175764232481-ao7u301g2rg9v04e7m6tfiqgj251ffn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
